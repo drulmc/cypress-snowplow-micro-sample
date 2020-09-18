@@ -1,0 +1,10 @@
+{
+  "name": "cypress-snowplow-micro-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dru Chavda",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  }
+}
