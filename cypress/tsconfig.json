@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "../node_modules",
+    "target": "es6",
+
+    "types": [
+      "cypress"
+    ]
+  },
+  "include": [
+    "**/*.*"
+  ]
+}
